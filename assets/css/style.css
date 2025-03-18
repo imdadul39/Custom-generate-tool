@@ -1,0 +1,28 @@
+.yt-embed-generator {
+    padding: 15px;
+    border: 1px solid #ddd;
+    background: #f9f9f9;
+    max-width: 400px;
+}
+.yt-embed-generator input {
+    width: 100%;
+    margin: 5px 0;
+    padding: 8px;
+}
+.yt-embed-generator button {
+    background: #0073aa;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    cursor: pointer;
+}
+.yt-embed-generator button:hover {
+    background: #005a87;
+}
+.yt-embed-generator div {
+    display: flex;
+    gap: 10px;
+}
+.yt-embed-generator div input {
+    width: 48%;
+}
